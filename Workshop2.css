@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid; */
+}
+
+body {
+  margin: 50px;
+}
+
+.article {
+  width: 500px;
+  padding: 50px;
+  border: 2px solid #000000;
+  font-size: 15px;
+  line-height: 2;
+}
+.footer {
+  margin-top: 15px;
+  padding: 15px 15px;
+  background: grey;
+  color: #000000;
+  text-align: center;
+  font-size: 15px;
+}
+
+.headline {
+  font-size: 20px;
+  color: #0711cf;
+}
+
+.photo {
+  background: #4e87cb;
+  width: 120px;
+  height: 80px;
+  margin: 0 20px 10px 0;
+  font-size: 40px;
+  text-align: center;
+  border: 2px solid #3c0bfd;
+  border-radius: 20px;
+  float: left;
+}

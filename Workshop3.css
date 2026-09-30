@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid; */
+}
+.content {
+  max-width: 600px;
+  margin-inline: auto;
+  padding: 30px;
+}
+
+.page-title {
+  font-size: 30px;
+  text-align: center;
+  padding: 30px 0 30px 0;
+}
+
+.page-sub {
+  font-size: 15px;
+  text-align: center;
+  color: #3515b5;
+}
+
+.chapter {
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+.chapter-body {
+  padding: 20px 20px;
+  font-size: 20px;
+}
+.chapter-head {
+  padding: 20px 20px;
+  background: #894fde;
+  font-size: 20px;
+}
